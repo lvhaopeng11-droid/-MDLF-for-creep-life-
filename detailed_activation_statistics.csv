@@ -1,0 +1,26 @@
+Region,Layer,count,mean,std,min,max
+Background,Conv1,20,0.0982,0.0446,0.0203,0.1776
+Background,Layer1,20,0.1572,0.0646,0.048,0.253
+Background,Layer2,20,0.179,0.0386,0.0966,0.2478
+Background,Layer3,20,0.163,0.0608,0.0349,0.3039
+Background,Layer4,20,0.0886,0.0509,0.0197,0.1844
+Grain Boundary,Conv1,20,0.4212,0.0539,0.3311,0.5926
+Grain Boundary,Layer1,20,0.4977,0.0593,0.3987,0.6157
+Grain Boundary,Layer2,20,0.6064,0.0516,0.524,0.7061
+Grain Boundary,Layer3,20,0.5327,0.0559,0.3879,0.6316
+Grain Boundary,Layer4,20,0.4582,0.0474,0.3524,0.5567
+Matrix,Conv1,20,0.2022,0.0511,0.1041,0.3232
+Matrix,Layer1,20,0.2443,0.0535,0.1725,0.3595
+Matrix,Layer2,20,0.3524,0.0452,0.2696,0.4433
+Matrix,Layer3,20,0.4171,0.0502,0.3513,0.536
+Matrix,Layer4,20,0.3396,0.0367,0.2743,0.3928
+Precipitates,Conv1,20,0.1638,0.0319,0.1086,0.2153
+Precipitates,Layer1,20,0.3024,0.0431,0.2393,0.4046
+Precipitates,Layer2,20,0.4895,0.0363,0.4276,0.5738
+Precipitates,Layer3,20,0.7224,0.0442,0.6596,0.8095
+Precipitates,Layer4,20,0.5987,0.0578,0.4938,0.6938
+δ-phase,Conv1,20,0.2914,0.048,0.2043,0.379
+δ-phase,Layer1,20,0.4367,0.0484,0.352,0.5426
+δ-phase,Layer2,20,0.6487,0.041,0.5618,0.7029
+δ-phase,Layer3,20,0.8484,0.0556,0.719,0.9282
+δ-phase,Layer4,20,0.9188,0.0345,0.8468,0.9939
